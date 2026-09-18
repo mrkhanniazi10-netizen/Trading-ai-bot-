@@ -1,0 +1,6 @@
+{
+  "name": "Trading AI Bot",
+  "description": "Trading AI Bot with advanced signal generation strategies, combining RSI, MACD, and moving-average crossover indicators with customizable thresholds and lookback periods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
